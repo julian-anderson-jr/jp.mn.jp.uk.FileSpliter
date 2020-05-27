@@ -1,0 +1,8 @@
+C:\Users\dorivun\source\repos2\FileSpliter\FileSpliter\bin\Release\FileSpliter.exe.config
+C:\Users\dorivun\source\repos2\FileSpliter\FileSpliter\bin\Release\FileSpliter.exe
+C:\Users\dorivun\source\repos2\FileSpliter\FileSpliter\bin\Release\FileSpliter.pdb
+C:\Users\dorivun\source\repos2\FileSpliter\FileSpliter\obj\Release\jp.mn.jp.uk.FileSpliter.Form1.resources
+C:\Users\dorivun\source\repos2\FileSpliter\FileSpliter\obj\Release\jp.mn.jp.uk.FileSpliter.Properties.Resources.resources
+C:\Users\dorivun\source\repos2\FileSpliter\FileSpliter\obj\Release\FileSpliter.csproj.GenerateResource.cache
+C:\Users\dorivun\source\repos2\FileSpliter\FileSpliter\obj\Release\FileSpliter.exe
+C:\Users\dorivun\source\repos2\FileSpliter\FileSpliter\obj\Release\FileSpliter.pdb
